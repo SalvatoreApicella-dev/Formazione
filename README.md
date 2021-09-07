@@ -1,12 +1,12 @@
 # Formazione
-Portfolio sviluppato durante un corso di formazione.
+Portfolio sviluppato durante un corso di formazione.<br>
 Le tecnologie utilizzate sono le seguenti:
 
 -Bootstrap <br>
--Css,HTML,Js
--FontAwesome
--Formspree
--Normalize.css
+-Css,HTML,Js<br>
+-FontAwesome<br>
+-Formspree<br>
+-Normalize.css<br>
 
 https://salvatoreapicella-dev.github.io/MyPortfolio/
 
