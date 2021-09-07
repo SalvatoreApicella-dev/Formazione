@@ -2,7 +2,7 @@
 Portfolio sviluppato durante un corso di formazione.
 Le tecnologie utilizzate sono le seguenti:
 
--Bootstrap
+-Bootstrap/n
 -Css,HTML,Js
 -FontAwesome
 -Formspree
