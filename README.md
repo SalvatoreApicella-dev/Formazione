@@ -10,4 +10,7 @@ Le tecnologie utilizzate sono le seguenti:
 
 https://salvatoreapicella-dev.github.io/MyPortfolio/
 
-Licensing information: https://bootstrapmade.com/license/
+Template Name: iPortfolio
+Template URL: https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/
+Author: BootstrapMade.com
+License: https://bootstrapmade.com/license/
